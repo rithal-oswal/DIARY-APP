@@ -1,0 +1,1 @@
+The zip file contains frontend code as .dart files and backend code as index.js
